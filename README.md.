@@ -1,0 +1,21 @@
+# Version Control with Git and GitHub
+
+## Project Overview
+This project demonstrates the use of Git and GitHub for version control, branching, merging, and collaboration.
+
+## Files in the Repository
+- LICENSE
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- simple-interest.sh
+
+## Features
+- Practiced creating branches and pull requests
+- Merged changes from child branches to main branch
+- Applied Apache 2.0 License to the repository
+
+## How to Run
+For the shell script:
+```bash
+bash simple-interest.sh
